@@ -1,7 +1,7 @@
 - 👋 Hey, I’m @norathecreator
 - 👀 interested in photography, digital art and clay
 - 🌱 learning web development
-- 💞️ looking to collaborate on smth cool
+- 💞️ looking forward to collaborate on smth cool
 - 📫 Always here for reach out!
 
 <!---
